@@ -1,8 +1,3 @@
-// import javax.swing.*;
-// import javax.swing.JFrame;
-// import javax.swing.JMenu;
-// import javax.swing.JMenuBar;
-// import javax.swing.JMenuItem;
 import javax.swing.*;
 public class MenuSwing{
     public static void main(String[] args){
