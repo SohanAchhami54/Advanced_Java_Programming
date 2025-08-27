@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class TextArea {
+public class TextAreaEx {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Text Area Example");
         JTextArea textArea = new JTextArea("Write something...");

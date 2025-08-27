@@ -15,7 +15,7 @@ public class ActionEventExample extends Frame implements ActionListener {
         addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent e) {
                 dispose();
-            }
+            }   
         });
     }
 

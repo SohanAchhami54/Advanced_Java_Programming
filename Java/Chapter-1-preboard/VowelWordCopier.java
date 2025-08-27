@@ -24,7 +24,7 @@ public class VowelWordCopier {
             reader.close();
             writer.close();
             System.out.println("Words starting with vowels copied to TWO.TXT");
-        } catch (IOException e) {
+        } catch (Exception e) {
             System.out.println("An error occurred: " + e.getMessage());
         }
     }

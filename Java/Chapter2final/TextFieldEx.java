@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class TextField {
+public class TextFieldEx {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Text Field Example");
         JTextField textField = new JTextField("Type here...");
